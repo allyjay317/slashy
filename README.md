@@ -1,0 +1,2 @@
+# slashy
+ Slash Commands anywhere!
