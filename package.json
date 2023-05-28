@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/allyjay317/slashy/issues"
   },
-  "homepage": "https://github.com/allyjay317/slashy#readme"
+  "homepage": "https://github.com/allyjay317/slashy#readme",
+  "publishConfig": {
+    "@allyjay317:registry": "https://npm.pkg.github.com"
+  }
 }
