@@ -1,0 +1,22 @@
+{
+  "name": "slashy",
+  "version": "1.0.0",
+  "description": "Slash Commands Anywhere!",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allyjay317/slashy.git"
+  },
+  "keywords": [
+    "slash"
+  ],
+  "author": "allyjay317",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allyjay317/slashy/issues"
+  },
+  "homepage": "https://github.com/allyjay317/slashy#readme"
+}
